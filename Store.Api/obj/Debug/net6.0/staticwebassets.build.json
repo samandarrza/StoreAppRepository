@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "SbbAr2GBPBef7gLB+bihAtYxkmTc+nfhPaPk7wcyuI8=",
+  "Source": "Store.Api",
+  "BasePath": "_content/Store.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Store.Api\\wwwroot",
+      "Source": "Store.Api",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\Backend\\StoreApp\\Store.Api\\wwwroot\\",
+      "BasePath": "_content/Store.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\USER\\source\\repos\\Backend\\StoreApp\\Store.Api\\wwwroot\\uploads\\products\\a08b7a50-e4df-4934-8ac9-91dde372890321 (1).png",
+      "SourceId": "Store.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USER\\source\\repos\\Backend\\StoreApp\\Store.Api\\wwwroot\\",
+      "BasePath": "_content/Store.Api",
+      "RelativePath": "uploads/products/a08b7a50-e4df-4934-8ac9-91dde372890321 (1).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\products\\a08b7a50-e4df-4934-8ac9-91dde372890321 (1).png"
+    }
+  ]
+}
